@@ -1,0 +1,1 @@
+return { path = "/home/wurm", documents = {["type"]="leaf",["views"]={[1]={["filename"]="Documents/GitHub/second-year/algorithms-and-data-structures/6/A.cpp",["text"]=false,["scroll"]={["y"]=0,["x"]=0},["type"]="doc",["active"]=false,["selection"]={[1]=21,[2]=15,[3]=21,[4]=15}}},["active_view"]=1}, directories = {} }
