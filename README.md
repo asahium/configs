@@ -1,6 +1,4 @@
-# configs
-
-Here is my configs
+# Here is my configs
 
 Requirement utilits:
 * i3
